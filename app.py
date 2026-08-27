@@ -1,7 +1,7 @@
 
 import streamlit as st
 
-st.title("Utilitários em Python 🐍")
+st.title("Aplicação desenvolvida por ZedeckDev 🐍")
 
 # Menu lateral
 opcao = st.sidebar.selectbox(
